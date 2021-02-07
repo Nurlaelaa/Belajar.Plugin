@@ -1,0 +1,25 @@
+table{
+
+    color:red;
+    text-align: center;
+    font-weight: 300;
+}
+
+th{
+    color: brown;
+    font: 200;
+}
+
+p{
+
+    color: blueviolet;
+}
+
+body{
+    background-image: url(images/bag.jpg) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+
